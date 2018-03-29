@@ -13,7 +13,7 @@ import shodan
 import re
 global SHODAN_API_KEY
 global api
-SHODAN_API_KEY="api" #Get free API from https://shodan.io
+SHODAN_API_KEY="paste here" #Get free API from https://shodan.io
 api=shodan.Shodan(SHODAN_API_KEY)
 
 
