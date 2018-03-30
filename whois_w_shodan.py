@@ -91,3 +91,5 @@ try:
 except:
     print("Usage: "+sys.argv[0]+" example.com")
     sys.exit()
+if __name__ == '__main__':
+    main()
